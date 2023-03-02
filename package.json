@@ -1,0 +1,16 @@
+{
+  "name": "codechallenge",
+  "version": "1.0.0",
+  "description": "Code challenge",
+  "main": "./src/pages/index.html",
+  "scripts": {
+    "start": "parcel ./src/pages/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hart",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "browserslist": ["last 1 chrome versions"]
+}
